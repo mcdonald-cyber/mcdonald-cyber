@@ -27,8 +27,8 @@ My name is Cynthia and I make make social media application projects.
 - 🌱 I’m currently learning django framework.
 - 👯 I’m looking to collaborate on any thoughtful or fun projects.
 - 🤔 I’m looking for help with building a strong community of fellow coders.
-- 💬 Ask me about my non-digital art.
-- 📫 How to reach me: Linkedin
+- 💬 Ask me about my React.
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/cynthiamcdonald/)
 - 😄 Pronouns: she,her
 - ⚡ Fun fact: I saw a Grizzly bear about 50ft(15.24km) away in the wild of Wyoming. 
 
