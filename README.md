@@ -3,7 +3,7 @@
 ![city](https://images.unsplash.com/photo-1485001564903-56e6a54d46ef?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80)
 
 <!--
-**satansdeer/satansdeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mcdonald-cyber/mcdonald-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any thoughtful or fun projects.
 - 🤔 I’m looking for help with building a strong community of fellow coders.
 - 💬 Ask me about my non-digital art.
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/cynthiamcdonald/)
 - 😄 Pronouns: she,her
 - ⚡ Fun fact: I saw a Grizzly bear about 50ft(15.24km) away in the wild of Wyoming. 
 -->
