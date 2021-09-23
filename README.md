@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 # Hi there 👋
 
-My name is Cynthia and I make make social media application projects.
+My name is Cynthia and I make things on the web.
 
 - 🔭 I’m currently working on El USpanol [ USA region Spanish dictionary ].
 - 🌱 I’m currently learning django framework.
