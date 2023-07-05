@@ -7,10 +7,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on El USpanol [ USA region Spanish dictionary ].
-- 🌱 I’m currently learning django framework.
+- 🌱 I’m currently learning Salesforce APEX. 
 - 👯 I’m looking to collaborate on any thoughtful or fun projects.
 - 🤔 I’m looking for help with building a strong community of fellow coders.
-- 💬 Ask me about my non-digital art.
+- 💬 Ask me about [Mambo Merge](https://www.mambomerge.com/).
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/cynthiamcdonald/)
 - 😄 Pronouns: she,her
 - ⚡ Fun fact: I saw a Grizzly bear about 50ft(15.24km) away in the wild of Wyoming. 
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 My name is Cynthia and I make things on the web.
 
 - 🔭 I’m currently working on El USpanol [ USA region Spanish dictionary ].
-- 🌱 I’m currently learning django framework.
-- 🤔 I’m looking for help with building a strong community of fellow coders.
+- 🌱 I’m currently learning Salesforce APEX. 
+- 💬 Ask me about [Mambo Merge](https://www.mambomerge.com/).
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/cynthiamcdonald/)
 </p>
 ------------------------------------------
